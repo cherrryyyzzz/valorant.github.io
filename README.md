@@ -1,1 +1,1 @@
-# cherryz.github.io/Valorant/index.html
+# cherryz.github.io/Valorant/maps.html
